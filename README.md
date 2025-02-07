@@ -14,7 +14,7 @@ Este es un proyecto de **calculadora** desarrollado en **Python**. La calculador
 
 ## 📷 Captura de Pantalla
 
-![Vista previa del proyecto](imagenes/Foto_CalculadoraPytnon.png)
+![Vista previa del proyecto](imagenes/Foto_CalculadoraPython.png)
 
 ## 🔧 Requisitos
 
